@@ -202,23 +202,6 @@ jupyter>=1.0
 ```
 
 **Note**: This project intentionally uses only NumPy for neural network implementation. TensorFlow and PyTorch are NOT used.
-
-## 🔗 Submission Options
-
-### Option 1: Google Drive
-1. Create folder named `neural-network-classifier`
-2. Place your `.ipynb` file inside
-3. Zip the folder
-4. Upload to Google Drive
-5. Set sharing to "Anyone with the link" (Viewer)
-6. Submit the shareable link
-
-### Option 2: GitHub (Current Method)
-1. Create public repository: `neural-network-classifier`
-2. Upload `.ipynb` file and README.md
-3. Ensure README explains approach, methodology, analysis process, and key findings
-4. Submit GitHub repository link
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
